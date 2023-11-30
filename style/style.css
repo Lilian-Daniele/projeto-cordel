@@ -63,7 +63,7 @@ section.normal {
 }
 
 section.imagem {
-    background-color: ;
+    background-color: black;
     color: white;
 }
 
@@ -74,7 +74,7 @@ section.imagem > p {
     background-size: cover;
 }
 
-.section#img01 {
+section#img01 {
     background-image: url('/projeto-cordel/imagens/background001.jpg');
     background-position: right center;
 }
