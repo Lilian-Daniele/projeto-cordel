@@ -70,12 +70,13 @@ section.imagem {
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgb(70, 70, 70);
+    background-color: rgba(70, 70, 70, 0.254);
     background-size: cover;
+    border-radius: 10px;
 }
 
 section#img01 {
-    background-image: url('/projeto-cordel/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
     background-position: right center;
 }
 
